@@ -1,9 +1,15 @@
 import './App.css'
+import Home from "./Components/Home";
 function App() {
 
   return (
     <>
-     <div className="text-black flex justify-center text-3xl">this is the Home page</div>
+     <div className="text-black flex justify-center text-3xl">
+      
+      <p>this is the Home page</p>
+     <Home/>
+     
+     </div>
     </>
   )
 }
