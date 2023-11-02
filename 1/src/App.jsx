@@ -29,7 +29,7 @@ function App() {
   
             
             <nav className="translate-y-4">
-              <ul className={openNav ? 'open':''}>
+              <ul className= {openNav ? 'open':''}>
                 <Link className="hover:text-sky-700 text-xs font-semibold " to="/">
                   HOME
                 </Link>

@@ -1,5 +1,5 @@
 import React from "react";
-//Footer page.
+
 //icons.
 import Eye from "../Assets/eye.svg";
 import Cap from "../Assets/graduation-cap.svg";
@@ -22,7 +22,7 @@ export default function Home() {
           <h3 className="text-2xl text-white text-center font-bold">
             WELCOME TO ESTG{" "}
           </h3>
-          <p className="text-2xl text-white font-bold sm: text-base sm:flex">
+          <p className="text-2xl text-white font-bold">
             “ECOLE SECONDAIRE TECHNIQUE DE GISENYI"
           </p>
         </div>
